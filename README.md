@@ -5,6 +5,11 @@
 This project analyzes a retail sales dataset using SQLite. The dataset contains transaction details such as customer information, product category, quantity, price, and total sales amount.
 
 ---
+## DataSet used
+
+Dataset:from kaggle ( https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset )
+
+---
 
 ## Table Used
 
